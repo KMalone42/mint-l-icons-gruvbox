@@ -3,7 +3,8 @@ import os
 import subprocess
 import sys
 
-colors = ["Aqua", "Blue", "Brown", "Green", "Grey", "Orange", "Pink", "Purple", "Red", "Sand", "Teal", "Yellow"]
+colors = ["aqua72", "bg235", "blue109", "blue66", "fg223", "gray245", "gray246", "green106", "green142", "green", "orange166", "orange208", "purple132", "purple175", "red124", "red167", "yellow172", "yellow214"]
+
 sizes = ["16", "22", "24", "32", "48", "64", "96", "128"]
 
 
